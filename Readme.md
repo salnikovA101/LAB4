@@ -43,4 +43,4 @@
 вводим в консоль ``` python -m unittest tests.py ```
 
 ## История документа:
-16ced52 (HEAD -> master) Написал код для тестов и Readme
+16ced52 (HEAD -> lab4, master) Написал код для тестов и Readme
